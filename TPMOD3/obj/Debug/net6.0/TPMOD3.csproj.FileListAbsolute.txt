@@ -1,0 +1,15 @@
+C:\Users\Public\Praktikum_KPL\tpmod3\TPMOD3\TPMOD3\bin\Debug\net6.0\TPMOD3.exe
+C:\Users\Public\Praktikum_KPL\tpmod3\TPMOD3\TPMOD3\bin\Debug\net6.0\TPMOD3.deps.json
+C:\Users\Public\Praktikum_KPL\tpmod3\TPMOD3\TPMOD3\bin\Debug\net6.0\TPMOD3.runtimeconfig.json
+C:\Users\Public\Praktikum_KPL\tpmod3\TPMOD3\TPMOD3\bin\Debug\net6.0\TPMOD3.dll
+C:\Users\Public\Praktikum_KPL\tpmod3\TPMOD3\TPMOD3\bin\Debug\net6.0\TPMOD3.pdb
+C:\Users\Public\Praktikum_KPL\tpmod3\TPMOD3\TPMOD3\obj\Debug\net6.0\TPMOD3.csproj.AssemblyReference.cache
+C:\Users\Public\Praktikum_KPL\tpmod3\TPMOD3\TPMOD3\obj\Debug\net6.0\TPMOD3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Praktikum_KPL\tpmod3\TPMOD3\TPMOD3\obj\Debug\net6.0\TPMOD3.AssemblyInfoInputs.cache
+C:\Users\Public\Praktikum_KPL\tpmod3\TPMOD3\TPMOD3\obj\Debug\net6.0\TPMOD3.AssemblyInfo.cs
+C:\Users\Public\Praktikum_KPL\tpmod3\TPMOD3\TPMOD3\obj\Debug\net6.0\TPMOD3.csproj.CoreCompileInputs.cache
+C:\Users\Public\Praktikum_KPL\tpmod3\TPMOD3\TPMOD3\obj\Debug\net6.0\TPMOD3.dll
+C:\Users\Public\Praktikum_KPL\tpmod3\TPMOD3\TPMOD3\obj\Debug\net6.0\refint\TPMOD3.dll
+C:\Users\Public\Praktikum_KPL\tpmod3\TPMOD3\TPMOD3\obj\Debug\net6.0\TPMOD3.pdb
+C:\Users\Public\Praktikum_KPL\tpmod3\TPMOD3\TPMOD3\obj\Debug\net6.0\TPMOD3.genruntimeconfig.cache
+C:\Users\Public\Praktikum_KPL\tpmod3\TPMOD3\TPMOD3\obj\Debug\net6.0\ref\TPMOD3.dll
